@@ -1,0 +1,11 @@
+main{
+    background-color: #ccc;
+    .chess{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    /* .box{
+        width: calc(100% / 8);
+        height: calc(100vh / 8);
+    } */
+}
